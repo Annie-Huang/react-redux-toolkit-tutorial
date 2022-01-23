@@ -1,0 +1,11 @@
+React Redux Tutorial For Beginners | Redux Toolkit Tutorial 2021
+(https://www.youtube.com/watch?v=k68j9xlbHHk&t=280s)
+
+https://github.com/machadop1407/react-redux-toolkit-tutorial
+https://github.com/Annie-Huang/react-redux-toolkit-tutorial
+
+https://redux.js.org/tutorials/quick-start
+=================================================================================
+
+PS C:\react> npx create-react-app react-redux-toolkit-tutorial --use-npm
+PS C:\react\react-redux-toolkit-tutorial> npm install @reduxjs/toolkit react-redux
